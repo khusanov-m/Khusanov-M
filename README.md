@@ -13,8 +13,8 @@
 
 ### Languages and Tools
 
-<a href="https://icons8.com/icon/20909/html-5"><img alt="HTML5" src="https://img.icons8.com/color/40/000000/html-5--v1.png"/></a>
+<a href="https://icons8.com/icon/20909/html-5"><img alt="HTML5" src="https://img.icons8.com/color/40/000000/html-5--v1.png" /></a>
+<a href="https://icons8.com/icon/GX4iT6biRXL-/gulp"><img src="https://img.icons8.com/windows/40/db4446/gulp.png"/></a>
 <a href="https://icons8.com/icon/21278/css3"><img alt="CSS3" src="https://img.icons8.com/color/40/000000/css3.png"/></a>
 <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass"><img alt="Sass" src="https://img.icons8.com/color/40/000000/sass.png"/></a>
 <a href="https://icons8.com/icon/108784/javascript"><img alt="JavaScript" src="https://img.icons8.com/color/40/000000/javascript.png"/></a>
-  
