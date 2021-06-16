@@ -40,5 +40,4 @@
 <img align="left" alt="git kraken" src="./content/gitkraken.svg"/>
 <img align="left" alt="figma" src="./content/figma.svg"/>
 
-
-<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkhusanov-m-r.netlify.app&count_bg=%23A69D9D&title_bg=%23A69D9D&icon=androidauto.svg&icon_color=%23E7E7E7&title=Portfolio+Website+Analytics&edge_flat=false" align="center" /></p>
+<p align="center"><a href="https://khusanov-m-r.netlify.app/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhusanov-m&count_bg=%237C7C7C&title_bg=%237C7C7C&icon=github.svg&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false"/></a></p>
