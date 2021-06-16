@@ -3,7 +3,7 @@
 <details>
 <summary> Activity in Github <img align="center" alt="center" src="./content/github.svg"/> </summary>
     
-
+<br />
     
 <a href="#">
     <img align="center" alt="Mukhammad Khojiakbar's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khusanov-m&count_private=true&hide_border=true&show_icons=true&title_color=333&icon_color=111&text_color=444&bg_color=135,bdc3c7,2c3e50" />
@@ -16,8 +16,9 @@
 
 
 <details>
+    
 <summary> Social Activity <img align="center" alt="verified" src="./content/instagram-verification-badge.svg"/> </summary>
-
+<br />
     
 <a href="https://t.me/khusanov_m_r"><img align="center" src="./content/telegram-app.svg" alt="Telegram" /></a>
 <a href="https://www.instagram.com/khusanov.m.r/"><img align="center" src="./content/instagram.svg" alt="Instagram" /></a>
