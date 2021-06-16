@@ -19,7 +19,7 @@
 <summary> Social Activity <img align="center" alt="verified" src="./content/instagram-verification-badge.svg"/> </summary>
 
     
-<a href="https://t.me/khusanov_m_r"><img align="center" src="./content/telegram.svg" alt="Telegram" /></a>
+<a href="https://t.me/khusanov_m_r"><img align="center" src="./content/telegram-app.svg" alt="Telegram" /></a>
 <a href="https://www.instagram.com/khusanov.m.r/"><img align="center" src="./content/instagram.svg" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/"><img align="center" src="./content/linkedin.svg"/></a>
 
@@ -29,12 +29,12 @@
 
 ### Languages and Tools
 
-<img align="center" alt="HTML5" src="./content/html-5.svg" />
-<img align="center" alt="Gulp" src="./content/gulp.svg"/>
-<img align="center" alt="CSS3" src="./content/css3.svg"/>
-<img align="center" alt="Sass" src="./content/sass.svg"/>
-<img align="center" alt="JavaScript" src="./content/javascript.svg"/>
-<img align="center" alt="python" src="./content/python.svg"/>
-<img align="center" alt="vs code" src="./content/visual-studio-code-2019.svg"/>
-<img align="center" alt="git kraken" src="./content/gitkraken.svg"/>
-<img align="center" alt="figma" src="./content/figma.svg"/>
+<img align="left" alt="HTML5" src="./content/html-5.svg" />
+<img align="left" alt="CSS3" src="./content/css3.svg"/>
+<img align="left" alt="JavaScript" src="./content/javascript.svg"/>
+<img align="left" alt="Gulp" src="./content/gulp.svg"/>
+<img align="left" alt="Sass" src="./content/sass.svg"/>
+<img align="left" alt="python" src="./content/python.svg"/>
+<img align="left" alt="vs code" src="./content/visual-studio-code-2019.svg"/>
+<img align="left" alt="git kraken" src="./content/gitkraken.svg"/>
+<img align="left" alt="figma" src="./content/figma.svg"/>
