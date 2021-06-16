@@ -40,6 +40,6 @@
 <img align="left" alt="git kraken" src="./content/gitkraken.svg"/>
 <img align="left" alt="figma" src="./content/figma.svg"/>
 
-
+<br />
 
 <p align="center"><a href="https://khusanov-m-r.netlify.app/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhusanov-m&count_bg=%233B7A7B&title_bg=%2321B8A2&icon=github.svg&icon_color=%23FFFFFF&title=Page+View&edge_flat=false"/></a></p>
