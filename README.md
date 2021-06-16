@@ -11,6 +11,9 @@
   </a>
 </details>
 
-<a href="#">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  </a>
+### Languages and Tools
+
+<a href="https://icons8.com/icon/20909/html-5"><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+<a href="https://icons8.com/icon/21278/css3"><img alt="CSS3" src="https://img.icons8.com/color/50/000000/css3.png"/></a>
+<a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass"><img alt="Sass" src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+  
