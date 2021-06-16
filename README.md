@@ -39,3 +39,6 @@
 <img align="left" alt="vs code" src="./content/visual-studio-code-2019.svg"/>
 <img align="left" alt="git kraken" src="./content/gitkraken.svg"/>
 <img align="left" alt="figma" src="./content/figma.svg"/>
+
+
+<p align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fkhusanov-m-r.netlify.app&count_bg=%23A69D9D&title_bg=%23A69D9D&icon=androidauto.svg&icon_color=%23E7E7E7&title=Portfolio+Website+Analytics&edge_flat=false" align="center" /></p>
