@@ -22,7 +22,7 @@
 <a href="https://t.me/khusanov_m_r"><img align="center" src="./content/telegram-app.svg" alt="Telegram" /></a>
 <a href="https://www.instagram.com/khusanov.m.r/"><img align="center" src="./content/instagram.svg" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/"><img align="center" src="./content/linkedin.svg"/></a>
-
+<a href="mailto: khusanov.it.tech@gmail.com"><img align="center" src="./content/gmail.svg"/></a>
 
 </details>
 
