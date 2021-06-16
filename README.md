@@ -1,5 +1,7 @@
 ### Hi Universe 👋 I'm Mukhammad
 
+https://github.com/khusanov-m/Khusanov-M/blob/main/content/top.mp4
+
 <details>
 <summary> Github Stats <img align="center" alt="center" src="./content/github.svg"/> </summary>
     
@@ -25,8 +27,6 @@
 <a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/"><img align="center" src="./content/linkedin.svg"/></a>
 <a href="https://vk.com/khusanov_m_r"><img align="center" src="./content/vk.svg"/></a>
 <a href="mailto: khusanov.it.tech@gmail.com"><img align="center" src="./content/gmail.svg"/></a>
-
-
     
 </details>
 
