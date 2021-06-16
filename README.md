@@ -19,3 +19,4 @@
 <a href="https://icons8.com/icon/QBqFNfPPB2Kx/sass"><img alt="Sass" src="https://img.icons8.com/color/40/000000/sass.png"/></a>
 <a href="https://icons8.com/icon/108784/javascript"><img alt="JavaScript" src="https://img.icons8.com/color/40/000000/javascript.png"/></a>
 <a href="https://icons8.com/icon/13441/python"><img src="https://img.icons8.com/color/40/000000/python.png"/></a>
+<a href="https://icons8.com/icon/0OQR1FYCuA9f/visual-studio-code-2019"><img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/></a>
