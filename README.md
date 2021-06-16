@@ -1,9 +1,9 @@
-### Hi Universe 👋 I'm Mukhammad
+<h1 align="center"> Hello Universe 👋 I'm Mukhammad </h1>
 
-https://github.com/khusanov-m/Khusanov-M/blob/main/content/top.mp4
+<img src="./content/top.gif" width="100%" />
 
 <details>
-<summary> Github Stats <img align="center" alt="center" src="./content/github.svg"/> </summary>
+<summary> <b>Github Stats</b> <img align="center" alt="center" src="./content/github.svg"/> </summary>
     
 <br />
     
@@ -19,7 +19,7 @@ https://github.com/khusanov-m/Khusanov-M/blob/main/content/top.mp4
 
 <details>
     
-<summary> Social Activity <img align="center" alt="verified" src="./content/instagram-verification-badge.svg"/> </summary>
+<summary> <b>Social Activity</b> <img align="center" alt="verified" src="./content/instagram-verification-badge.svg"/> </summary>
 <br />
     
 <a href="https://t.me/khusanov_m_r"><img align="center" src="./content/telegram-app.svg" alt="Telegram" /></a>
