@@ -16,7 +16,7 @@
 <summary> Social Activity </summary>
 
     
-<img src="https://github.com/khusanov-m/Khusanov-M/blob/main/content/telegram-app-2.gif" alt="Telegram" width="40" height="40" />
+<img src="https://github.com/khusanov-m/Khusanov-M/blob/main/content/telegram-app.gif" alt="Telegram" width="40" height="40" />
 
 </details>
 
