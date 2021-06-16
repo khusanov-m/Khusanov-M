@@ -1,7 +1,7 @@
 ### Hi Universe 👋
 
 <details>
-<summary> Activity in Github </summary>
+<summary> Activity in Github <img align="center" src="https://img.icons8.com/material-outlined/24/ffffff/github.png"/> </summary>
 <a href="#">
     <img align="center" alt="Mukhammad Khojiakbar's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khusanov-m&count_private=true&hide_border=true&show_icons=true&title_color=333&icon_color=111&text_color=444&bg_color=135,bdc3c7,2c3e50" />
   </a>
@@ -13,7 +13,7 @@
 
 
 <details>
-<summary> Social Activity </summary>
+<summary> Social Activity <img align="center" src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/> </summary>
 
     
 <a href="https://t.me/khusanov_m_r"><img align="center" src="https://github.com/khusanov-m/Khusanov-M/blob/main/content/telegram-app.gif" alt="Telegram" width="40" height="40" /></a>
