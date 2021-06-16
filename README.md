@@ -16,7 +16,8 @@
 <summary> Social Activity </summary>
 
     
-<img src="https://github.com/khusanov-m/Khusanov-M/blob/main/content/telegram-app.gif" alt="Telegram" width="40" height="40" />
+<a href="https://t.me/khusanov_m_r"><img src="https://github.com/khusanov-m/Khusanov-M/blob/main/content/telegram-app.gif" alt="Telegram" width="40" height="40" /></a>
+<a href="https://www.instagram.com/khusanov.m.r/"><img src="https://github.com/khusanov-m/Khusanov-M/blob/main/content/instagram.gif" alt="Instagram" width="40" height="40" /></a>
 
 </details>
 
