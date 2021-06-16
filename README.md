@@ -1,7 +1,7 @@
 ### Hi Universe 👋 I'm Mukhammad
 
 <details>
-<summary> Activity in Github <img align="center" alt="center" src="./content/github.svg"/> </summary>
+<summary> Github Stats <img align="center" alt="center" src="./content/github.svg"/> </summary>
     
 <br />
     
