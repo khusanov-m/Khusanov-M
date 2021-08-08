@@ -1,6 +1,6 @@
 <h1 align="center"> Hello Universe 👋 I'm Mukhammad </h1>
 
-<!-- <img src="./content/top.gif" width="100%" /> -->
+<br />
 <p align="center">
     <img src="./content/man.png" width="50%" />
 </p>
