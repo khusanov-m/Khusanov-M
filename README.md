@@ -1,6 +1,9 @@
 <h1 align="center"> Hello Universe 👋 I'm Mukhammad </h1>
 
-<img src="./content/top.gif" width="100%" />
+<!-- <img src="./content/top.gif" width="100%" /> -->
+<p align="center">
+    <img src="./content/man.png" width="50%" />
+</p>
 
 <details>
 <summary> <b>Github Stats</b> <img align="center" alt="center" src="./content/github.svg"/> </summary>
