@@ -26,7 +26,8 @@
 <a href="https://www.instagram.com/khusanov.m.r/"><img align="center" src="./content/instagram.svg" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/"><img align="center" src="./content/linkedin.svg"/></a>
 <a href="https://vk.com/khusanov_m_r"><img align="center" src="./content/vk.svg"/></a>
-<a href="mailto: khusanov.it.tech@gmail.com"><img align="center" src="./content/gmail.svg"/></a>
+    
+<a href="mailto: khusanov.it.tech@gmail.com"><img align="center" src="./content/gmail.svg"/></a> khusanov.it.tech@gmail.com
     
 </details>
 
@@ -36,6 +37,7 @@
 <img align="left" alt="HTML5" src="./content/html-5.svg" />
 <img align="left" alt="CSS3" src="./content/css3.svg"/>
 <img align="left" alt="JavaScript" src="./content/javascript.svg"/>
+<img align="left" alt="VueJS" src="./content/vue.svg" width="40" height="40"/>
 <img align="left" alt="Gulp" src="./content/gulp.svg"/>
 <img align="left" alt="Sass" src="./content/sass.svg"/>
 <img align="left" alt="python" src="./content/python.svg"/>
