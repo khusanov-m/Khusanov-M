@@ -36,6 +36,7 @@
 <img align="left" alt="HTML5" src="./content/html-5.svg" />
 <img align="left" alt="CSS3" src="./content/css3.svg"/>
 <img align="left" alt="JavaScript" src="./content/javascript.svg"/>
+<img align="left" alt="VueJS" src="./content/vue.svg"/>
 <img align="left" alt="Gulp" src="./content/gulp.svg"/>
 <img align="left" alt="Sass" src="./content/sass.svg"/>
 <img align="left" alt="python" src="./content/python.svg"/>
