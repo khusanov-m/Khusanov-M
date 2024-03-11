@@ -14,19 +14,9 @@
   </a>
 </details>
 
+<a href="https://t.me/khusanov_m_r">Telegram</a>
+<a href="https://www.instagram.com/khusanov.m.r/">Instagram</a>
+<a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/">LinkedIn</a>
+<a href="https://vk.com/khusanov_m_r">VK</a>
 
-<details>
-    
-<summary> <b>Social Activity</b> <img align="center" alt="verified" src="./content/instagram-verification-badge.svg"/> </summary>
-<br />
-    
-<a href="https://t.me/khusanov_m_r"><img align="center" src="./content/telegram-app.svg" alt="Telegram" /></a>
-<a href="https://www.instagram.com/khusanov.m.r/"><img align="center" src="./content/instagram.svg" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/"><img align="center" src="./content/linkedin.svg"/></a>
-<a href="https://vk.com/khusanov_m_r"><img align="center" src="./content/vk.svg"/></a>
-    
-<a href="mailto: khusanov.it.tech@gmail.com"><img align="center" src="./content/gmail.svg"/></a> khusanov.it.tech@gmail.com
-    
-</details>
-
-<br />
+Mail: khusanov.it.tech@gmail.com
