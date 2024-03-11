@@ -1,10 +1,5 @@
 <h1 align="center"> Hello Universe 👋 I'm Mukhammad </h1>
 
-<br />
-<p align="center">
-    <img src="./content/man.png" width="50%" />
-</p>
-
 <details>
 <summary> <b>Github Stats</b> <img align="center" alt="center" src="./content/github.svg"/> </summary>
     
@@ -34,22 +29,4 @@
     
 </details>
 
-
-### Languages and Tools
-
-<img align="left" alt="HTML5" src="./content/html-5.svg" />
-<img align="left" alt="CSS3" src="./content/css3.svg"/>
-<img align="left" alt="JavaScript" src="./content/javascript.svg"/>
-<img align="left" alt="VueJS" src="./content/vue.svg" width="40" height="40"/>
-<img align="left" alt="Gulp" src="./content/gulp.svg"/>
-<img align="left" alt="Sass" src="./content/sass.svg"/>
-<img align="left" alt="python" src="./content/python.svg"/>
-<img align="left" alt="vs code" src="./content/visual-studio-code-2019.svg"/>
-<img align="left" alt="git kraken" src="./content/gitkraken.svg"/>
-<img align="left" alt="figma" src="./content/figma.svg"/>
-
 <br />
-<br />
-<br />
-
-<p align="center"><a href="https://khusanov-m-r.netlify.app/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhusanov-m&count_bg=%233B7A7B&title_bg=%2321B8A2&icon=github.svg&icon_color=%23FFFFFF&title=Page+View&edge_flat=false"/></a></p>
