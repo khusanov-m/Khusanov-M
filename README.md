@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Universe 👋 I'm Mukhammad </h1>
+<h1 align="center"> Yo @c Mukhammad </h1>
 
 <details>
 <summary> <b>Github Stats</b> <img align="center" alt="center" src="./content/github.svg"/> </summary>
