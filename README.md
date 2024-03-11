@@ -1,4 +1,4 @@
-<h1 align="center"> Yo @c Mukhammad </h1>
+<h1 align="center"> Yo © Mukhammad </h1>
 <hr />
     
 <br />
