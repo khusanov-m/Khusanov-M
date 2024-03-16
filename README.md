@@ -1,5 +1,4 @@
 <h1 align="center"> Yo © Mukhammad </h1>
-<hr />
 
 network
 <br />
