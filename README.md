@@ -5,5 +5,4 @@ network:
 <a href="https://www.instagram.com/khusanov.m.r/">Instagram</a> | 
 <a href="https://www.linkedin.com/in/mukhammadkhojiakbar-khusanov/">LinkedIn</a>
 
-mail: khusanov.it.tech@gmail.com
-work mail: khusanov.work@gmail.com
+mail: khusanov.m@bytelink.uz
